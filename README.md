@@ -1,6 +1,6 @@
 # Vintage Story Docker Server Collection
 
-This repository contains all currently supported versions of **Minecraft** server images that I've created.  
+This repository contains all currently supported versions of **Vintage Story** server images that I've created.  
 Each version is organized under its appropriate category: `vanilla/`, `modded/`, or other custom flavors.
 
 ---
