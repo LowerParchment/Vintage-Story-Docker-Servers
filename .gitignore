@@ -1,0 +1,12 @@
+# Ignore all downloaded binaries and save data across all versions
+**/server/game/
+**/server/data/
+
+# Optional: ignore logs, temp files, crash dumps
+**/logs/
+**/tmp/
+**/*.log
+
+# macOS & Windows junk
+.DS_Store
+Thumbs.db
